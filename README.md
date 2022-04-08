@@ -27,7 +27,7 @@ pip install pathlib
 ## Usage
 
 Here is a demo of what usign the application should look like. 
-![Demo](Module-2-Challenge/Images/demo.png)
+![Demo](demo.png)
 
 ---
 
