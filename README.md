@@ -7,20 +7,20 @@ Looking at a user's **credit score**, **current debt**, **monthly income**, **lo
 ## Technologies
 
 Python version 3.9 
--[fire](https://github.com/google/python-fire) - The command line interface
--[questionary](https://github.com/tmbo/questionary) - Prompts and user managment
--[pathlib](https://docs.python.org/3/library/pathlib.html) - Dynamic path finder
+* [fire](https://github.com/google/python-fire) - The command line interface
+* [questionary](https://github.com/tmbo/questionary) - Prompts and user managment
+* [pathlib](https://docs.python.org/3/library/pathlib.html) - Dynamic path finder
 
 ---
 
 ## Installation Guide
 
 To install the dependencies used for this application, enter the followinf into your terminal.
-'''
+```python
 pip install fire
 pip install questionary
 pip install pathlib
-'''
+```
 
 ---
 
@@ -34,7 +34,7 @@ Here is a demo of what usign the application should look like.
 ## Contributors
 
 Main contributer **Santiago Hernandez**
--[dsmannight@gmail.com](dsmannight@gmail.com)
+- [dsmannight@gmail.com](dsmannight@gmail.com)
 
 ---
 
